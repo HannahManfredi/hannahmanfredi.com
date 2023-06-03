@@ -20,9 +20,9 @@ export default function Home() {
                   specializing in user interfaces, software development and building businesses.{" "} 
                 <br/>             
                 </h1>
-                <div className="text-white mt-2 lg:mt-8 text-[8.3vw] md:text-[5.3vw] lg:text-[3.3vw]">
+                {/* <div className="text-white mt-2 lg:mt-8 text-[8.3vw] md:text-[5.3vw] lg:text-[3.3vw]">
                   <a className="decoration-indigo-600 underline-offset-8 decoration-2 hover:underline" href='/inquiries'>Contact me</a> to discuss your next project! 
-                </div>
+                </div> */}
                 <span className="text-amber-400 text-lg lg:text-xl pt-20 md:pt-30 lg:pt-36">Below is a selection of my work. </span>
              </div>
       
